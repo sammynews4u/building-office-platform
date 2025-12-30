@@ -1,0 +1,8 @@
+{
+  "name": "BuildOS - Construction Office Platform",
+  "description": "An all-in-one operating system for construction companies featuring marketplaces, ERP, HR management, financial tools, and project tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
